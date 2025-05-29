@@ -1,3 +1,4 @@
+# PDF 파일 load
 import streamlit as st
 from streamlit_pdf_viewer import pdf_viewer
 # PDF 파일 경로
